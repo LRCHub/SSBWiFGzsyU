@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Everybody Loves The Sunshine",
+  "base_artist": "Roy Ayers Ubiquity",
+  "createdAt": "2026-02-25T03:01:39.274564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Roy Ayers",
+      "has_synced": false,
+      "path": "select/01_Everybody_Loves_The_Sunshine_Roy_Ayers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "everybody loves the sunshine",
+      "artist": "ramp",
+      "has_synced": false,
+      "path": "select/02_everybody_loves_the_sunshine_ramp.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers",
+      "has_synced": false,
+      "path": "select/03_Everybody_Loves_the_Sunshine_Roy_Ayers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/04_Everybody_Loves_the_Sunshine_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Takuya Kuroda",
+      "has_synced": true,
+      "path": "select/05_Everybody_Loves_the_Sunshine_Takuya_Kuroda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/06_Everybody_Loves_The_Sunshine_Incognito.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers",
+      "has_synced": true,
+      "path": "select/07_Everybody_Loves_the_Sunshine_Roy_Ayers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Fantastique",
+      "has_synced": false,
+      "path": "select/08_Everybody_Loves_The_Sunshine_Fantastique.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": true,
+      "path": "select/09_Everybody_Loves_The_Sunshine_Roy_Ayers_Ubiquity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Roy Ayers",
+      "has_synced": true,
+      "path": "select/10_Everybody_Loves_The_Sunshine_Roy_Ayers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "everybody loves the sunshine",
+      "artist": "roy ayers",
+      "has_synced": true,
+      "path": "select/11_everybody_loves_the_sunshine_roy_ayers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": false,
+      "path": "select/12_Everybody_Loves_The_Sunshine_Roy_Ayers_Ubiquity.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": true,
+      "path": "select/13_Everybody_Loves_the_Sunshine_Roy_Ayers_Ubiquity.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers feat. Erykah Badu",
+      "has_synced": false,
+      "path": "select/14_Everybody_Loves_the_Sunshine_Roy_Ayers_feat._Erykah_Badu.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers featuring Erykah Badu",
+      "has_synced": false,
+      "path": "select/15_Everybody_Loves_the_Sunshine_Roy_Ayers_featuring_Erykah_Badu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": true,
+      "path": "select/16_Everybody_Loves_the_Sunshine_Roy_Ayers_Ubiquity.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everybody Loves the Funk",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/17_Everybody_Loves_the_Funk_Village_People.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Everybody Loves The Cha Cha Cha",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/18_Everybody_Loves_The_Cha_Cha_Cha_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Everybody Loves The Sunshine",
+      "artist": "Roy Ayers",
+      "has_synced": true,
+      "path": "select/19_Everybody_Loves_The_Sunshine_Roy_Ayers.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Everybody Loves/The Def Of You (Interlude)",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/20_Everybody_Loves_The_Def_Of_You_(Interlude)_Ne-Yo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Loves the Sunshine",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Loves_the_Sunshine_Roy_Ayers_Ubiquity.txt"
+    }
+  ]
+}
